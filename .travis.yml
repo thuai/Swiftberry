@@ -1,0 +1,9 @@
+language: objective-c
+osx_image: xcode9.3
+branches:
+  only:
+    - master
+env:
+  global:
+  - xcode_workspace: ./Example/SwiftBerry.xcworkspace
+podfile: ./Example/Podfile
