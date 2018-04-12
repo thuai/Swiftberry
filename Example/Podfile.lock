@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - SwiftBerry (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - SwiftBerry (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftBerry:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SwiftBerry: bbe311405ba435df3b36400ee6b09f8346345a5a
+
+PODFILE CHECKSUM: 166944eb80134e103c6002d4d2236fa912634045
+
+COCOAPODS: 1.4.0
